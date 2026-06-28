@@ -257,7 +257,6 @@ section {
     padding: 100px;
 }
 
-/*FOOTER*/
 .footer {
     text-align: center;
 
@@ -319,7 +318,6 @@ section {
     border-radius: 20px;
 }
 
-/*IMAGENS*/
 img[alt='star-empty'] {
     object-fit: cover;
     object-position: 0 2px;
